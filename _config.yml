@@ -2,7 +2,7 @@ title: Платформа - Новости национальных проект
 name: ПЛАТФОРМА
 description: Новости Костромы проведение мероприятий новости ДОУ обзоры конкурсов новые проекты презентации кукол в национальных костюмах
 themecolor: '#202225'
-imagehome: img/platforma.jpg
+imagehome: /img/platforma.jpg
 url: 'http://platforma44.ru'
 baseurl: '/'
 
